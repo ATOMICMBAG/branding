@@ -785,7 +785,6 @@ Grundpreis + (Kilometer × Preis pro km) + Zusatzleistungen = Gesamtpreis
 | **E-Mail-Service**     | Laufend             | 300 - 1.000 €/Jahr    |
 | **Gesamt**             | **330-500 Stunden** | **35.000 - 65.000 €** |
 
-_Hinweis: Dies sind Richtwerte. Ein detailliertes Angebot erfordert eine genaue Anforderungsanalyse._
 
 ### 8.2 Zeitplan (Gantt-Übersicht)
 
