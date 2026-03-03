@@ -5,7 +5,6 @@
 **Erstellt:** 28. Februar 2026  
 **Projekt:** Limusinen Service Silver-Car Website + Admin Desktop App  
 **Basis:** Adaptierte Premium-Automotive Design-Prinzipien  
-**Status:** Zur Planungsfreigabe  
 **Erweiterung:** Desktop App für Kundenverwaltung & Mitarbeiterplanung
 
 ---
@@ -658,3 +657,4 @@ _Hinweis: Dies sind Richtwerte. Ein detailliertes Angebot erfordert eine genaue 
 | 2.0     | 28.02.2026 | Besem Maazi | Erweiterung: Desktop App Module hinzugefügt         |
 
 ---
+
