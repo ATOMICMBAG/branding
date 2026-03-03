@@ -4,7 +4,6 @@
 
 **Erstellt:** 28. Februar 2026  
 **Projekt:** Silver-Car - Limousinen Service Website + Desktop App  
-**Status:** Zur finalen Planungsfreigabe  
 **Basis:** Brainstorm (Silver-Car_plan.md) + Design-Analysen (Silver-Car_style_webseite.md + Silver-Car_style_desktop_app.md)
 
 ---
