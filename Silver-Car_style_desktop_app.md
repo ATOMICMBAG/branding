@@ -633,22 +633,6 @@
 
 ---
 
-## 📊 13. Kostenschätzung (Grob)
-
-| Komponente             | Aufwand             | Kosten (ca.)          |
-| ---------------------- | ------------------- | --------------------- |
-| **Website**            | 80-120 Stunden      | 8.000 - 15.000 €      |
-| **Desktop App**        | 200-300 Stunden     | 20.000 - 35.000 €     |
-| **Datenbank & API**    | 40-60 Stunden       | 4.000 - 8.000 €       |
-| **DSGVO-Beratung**     | 10-20 Stunden       | 2.000 - 5.000 €       |
-| **Hosting (jährlich)** | Laufend             | 500 - 1.500 €         |
-| **E-Mail-Service**     | Laufend             | 300 - 1.000 €/Jahr    |
-| **Gesamt**             | **330-500 Stunden** | **35.000 - 65.000 €** |
-
-_Hinweis: Dies sind Richtwerte. Ein detailliertes Angebot erfordert eine genaue Anforderungsanalyse._
-
----
-
 ## 📝 14. Dokumenten-Historie
 
 | Version | Datum      | Autor       | Änderung                                            |
@@ -657,4 +641,5 @@ _Hinweis: Dies sind Richtwerte. Ein detailliertes Angebot erfordert eine genaue 
 | 2.0     | 28.02.2026 | Besem Maazi | Erweiterung: Desktop App Module hinzugefügt         |
 
 ---
+
 
