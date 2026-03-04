@@ -1,6 +1,6 @@
 # Silver-Car - Limousinen Service – Projekt Silver-Car
 
-## Umfassende Projektplanung & Design-Dokumentation (Version 3.0)
+## Umfassende Projektplanung & Design-Dokumentation (Version 3.1-2)
 
 **Erstellt:** 28. Februar 2026  
 **Projekt:** Silver-Car - Limousinen Service Website + Desktop App  
