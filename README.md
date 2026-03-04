@@ -8,7 +8,7 @@
 
 ---
 
-## 📑 Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 | Kapitel | Inhalt                                           | Seite |
 | ------- | ------------------------------------------------ | ----- |
