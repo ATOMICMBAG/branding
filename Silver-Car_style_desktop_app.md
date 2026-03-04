@@ -9,7 +9,7 @@
 
 ---
 
-## ⚖️ 1. Rechtliche Hinweise & Lizenzinformationen (Erweitert)
+## 1. Rechtliche Hinweise & Lizenzinformationen (Erweitert)
 
 | Bereich              | Richtlinie                                 | Umsetzung                                         |
 | -------------------- | ------------------------------------------ | ------------------------------------------------- |
@@ -28,7 +28,7 @@
 
 ---
 
-## 🏗️ 2. Gesamtsystem-Architektur
+## 2. Gesamtsystem-Architektur
 
 ### 2.1 System-Übersicht
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 🖥️ 3. Desktop App – Modulübersicht
+## 3. Desktop App – Modulübersicht
 
 ### 3.1 Hauptmodule der Desktop App
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 👥 4. Modul: Kundenverwaltung
+## 4. Modul: Kundenverwaltung
 
 ### 4.1 Kunden-Datenstruktur
 
@@ -187,7 +187,7 @@
 
 ---
 
-## 📅 5. Modul: Terminplanung & Mitarbeiter-Einteilung
+## 5. Modul: Terminplanung & Mitarbeiter-Einteilung
 
 ### 5.1 Termin-Datenstruktur
 
@@ -271,7 +271,7 @@
 
 ---
 
-## 📧 6. Modul: Vertragsbestätigung & Kundenkommunikation
+## 6. Modul: Vertragsbestätigung & Kundenkommunikation
 
 ### 6.1 Automatischer Bestätigungs-Workflow
 
@@ -355,7 +355,7 @@
 
 ---
 
-## 📬 7. Modul: E-Mail-Marketing
+## 7. Modul: E-Mail-Marketing
 
 ### 7.1 Rechtliche Anforderungen (UWG § 7 + DSGVO)
 
@@ -445,7 +445,7 @@
 
 ---
 
-## 📊 8. Modul: Reports & Analytics
+## 8. Modul: Reports & Analytics
 
 ### 8.1 Verfügbare Reports
 
@@ -494,7 +494,7 @@
 
 ---
 
-## 🔐 9. Sicherheit & Zugriffskontrolle
+## 9. Sicherheit & Zugriffskontrolle
 
 ### 9.1 Benutzerrollen
 
@@ -573,7 +573,7 @@
 
 ---
 
-## 📋 11. Implementierungs-Phasen (Erweitert)
+## 11. Implementierungs-Phasen (Erweitert)
 
 ### Phase 1: Website Grundgerüst (Woche 1-4)
 
@@ -620,7 +620,7 @@
 
 ---
 
-## ⚠️ 12. Kritische Warnhinweise
+## 12. Kritische Warnhinweise
 
 | Thema                | Risiko                         | Empfehlung                          |
 | -------------------- | ------------------------------ | ----------------------------------- |
@@ -633,7 +633,7 @@
 
 ---
 
-## 📝 14. Dokumenten-Historie
+## 14. Dokumenten-Historie
 
 | Version | Datum      | Autor       | Änderung                                            |
 | ------- | ---------- | ----------- | --------------------------------------------------- |
@@ -641,5 +641,6 @@
 | 2.0     | 28.02.2026 | Besem Maazi | Erweiterung: Desktop App Module hinzugefügt         |
 
 ---
+
 
 
