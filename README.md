@@ -52,16 +52,16 @@ Entwicklung einer Premium-Limousinen-Mietplattform mit:
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  WEBSITE (Public)                    DESKTOP APP (Internal)         │
-│  ┌─────────────────────────┐         ┌─────────────────────────┐   │
-│  │ • Landingpage           │         │ • Kundenverwaltung      │   │
-│  │ • Fuhrpark-Show         │         │ • Terminplanung         │   │
-│  │ • Einzelfahrzeug-Show   │         │ • Mitarbeiter-Einteilung│   │
-│  │ • Kalkulator (Km/Route) │         │ • Vertragsbestätigung   │   │
-│  │ • Kontaktformular       │         │ • E-Mail-Marketing      │   │
-│  │ • Gast: Termin-Info     │         │ • Reports & Analytics   │   │
-│  │ • Kunde: Buchung        │         │ • Fahrzeug-Wartung      │   │
-│  │ • Info-Service (Verkehr)│         │ • Systemeinstellungen   │   │
-│  └─────────────────────────┘         └─────────────────────────┘   │
+│  ┌─────────────────────────┐         ┌─────────────────────────┐    │
+│  │ • Landingpage           │         │ • Kundenverwaltung      │    │
+│  │ • Fuhrpark-Show         │         │ • Terminplanung         │    │
+│  │ • Einzelfahrzeug-Show   │         │ • Mitarbeiter-Einteilung│    │
+│  │ • Kalkulator (Km/Route) │         │ • Vertragsbestätigung   │    │
+│  │ • Kontaktformular       │         │ • E-Mail-Marketing      │    │
+│  │ • Gast: Termin-Info     │         │ • Reports & Analytics   │    │
+│  │ • Kunde: Buchung        │         │ • Fahrzeug-Wartung      │    │
+│  │ • Info-Service (Verkehr)│         │ • Systemeinstellungen   │    │
+│  └─────────────────────────┘         └─────────────────────────┘    │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -224,9 +224,9 @@ Grundpreis + (Kilometer × Preis pro km) + Zusatzleistungen = Gesamtpreis
 │  ○ Route berechnen: [Start __________] → [Ziel __________]      │
 │                                                                 │
 │  3. ZUSATZLEISTUNGEN                                            │
-│  ☐ Getränke-Paket (+50 EUR)                                     │
-│  ☐ Dekorations-Paket (+150 EUR)                                 │
-│  ☐ Mehrsprachiger Fahrer (+100 EUR)                             │
+│  ☐ Getränke-Paket (+50 EUR)                                    │
+│  ☐ Dekorations-Paket (+150 EUR)                                │
+│  ☐ Mehrsprachiger Fahrer (+100 EUR)                            │
 │                                                                 │
 │  ─────────────────────────────────────────────────────────────  │
 │  GESAMTPREIS: [________ EUR]                                    │
@@ -313,30 +313,30 @@ Grundpreis + (Kilometer × Preis pro km) + Zusatzleistungen = Gesamtpreis
 **Hauptmodule:**
 | Modul | Funktion | Nutzer |
 |-------|----------|--------|
-| **Kundenverwaltung** | Kunden-Daten CRUD, Historie | Admin, Manager |
-| **Terminplanung** | Kalender, Buchungen, Status | Admin, Manager, Disponent |
-| **Mitarbeiter-Einteilung** | Fahrer-Zuweisung, Schichten | Admin, Manager, Disponent |
-| **Vertragsbestätigung** | PDF-Generierung, Versand | Admin, Manager |
-| **E-Mail-Marketing** | Kampagnen, Verteiler, Templates | Admin, Manager |
-| **Reports & Analytics** | Umsatz, Buchungen, KPIs | Admin, Manager |
-| **Fahrzeug-Wartung** | Wartungsplan, Status | Admin, Manager |
-| **Systemeinstellungen** | User, Rollen, Sicherheit | Admin |
+| **Kundenverwaltung**         | Kunden-Daten CRUD, Historie      | Admin, Manager |
+| **Terminplanung**            | Kalender, Buchungen, Status      | Admin, Manager, Disponent |
+| **Mitarbeiter-Einteilung**   | Fahrer-Zuweisung, Schichten      | Admin, Manager, Disponent |
+| **Vertragsbestätigung**      | PDF-Generierung, Versand         | Admin, Manager |
+| **E-Mail-Marketing**         | Kampagnen, Verteiler, Templates  | Admin, Manager |
+| **Reports & Analytics**      | Umsatz, Buchungen, KPIs          | Admin, Manager |
+| **Fahrzeug-Wartung**         | Wartungsplan, Status             | Admin, Manager |
+| **Systemeinstellungen**      | User, Rollen, Sicherheit         | Admin |
 
 ### 3.2 Kundenverwaltung
 
 **Datenstruktur:**
 | Feld | Typ | Pflicht | DSGVO-Hinweis |
 |------|-----|---------|----------------|
-| Kunden-ID | Auto-Increment | Ja | Intern |
-| Vorname | Text | Ja | Personenbezogen |
-| Nachname | Text | Ja | Personenbezogen |
-| E-Mail | E-Mail | Ja | Personenbezogen, Login |
-| Telefon | Text | Ja | Personenbezogen |
-| Adresse | Text | Nein | Personenbezogen, optional |
-| Registrierungsdatum | Datum | Ja | Intern |
-| Newsletter-Opt-In | Boolean | Nein | Dokumentiert speichern |
-| Kundenstatus | Enum | Ja | Aktiv, Inaktiv, Gesperrt |
-| Löschvermerk | Datum | Nein | Für DSGVO-Löschfrist |
+| Kunden-ID           | Auto-Increment | Ja | Intern |
+| Vorname             | Text | Ja           | Personenbezogen |
+| Nachname            | Text | Ja           | Personenbezogen |
+| E-Mail              | E-Mail | Ja         | Personenbezogen, Login |
+| Telefon             | Text | Ja           | Personenbezogen |
+| Adresse             | Text | Nein         | Personenbezogen, optional |
+| Registrierungsdatum | Datum | Ja          | Intern |
+| Newsletter-Opt-In   | Boolean | Nein      | Dokumentiert speichern |
+| Kundenstatus        | Enum | Ja           | Aktiv, Inaktiv, Gesperrt |
+| Löschvermerk        | Datum | Nein        | Für DSGVO-Löschfrist |
 
 **Funktionen:**
 
@@ -793,7 +793,7 @@ Woche:  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 2
         │──────────│──────────│──────────│──────────│──────────│──────────│──────────│
 Phase 1 │██████████│          │          │          │          │          │          │
 Phase 2 │          │██████████│          │          │          │          │          │
-Phase 3 │          │          │███████████████████│          │          │          │
+Phase 3 │          │          │█████████████████████│          │          │          │
 Phase 4 │          │          │          │          │██████████│          │          │
 Phase 5 │          │          │          │          │          │██████████│          │
 Phase 6 │          │          │          │          │          │          │██████████│
