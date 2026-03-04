@@ -1,4 +1,4 @@
-# 📐 Design-Anweisung: Limusinen Service Silver-Car
+# Design-Anweisung: Limusinen Service Silver-Car
 
 ## Website Design Dokument (Version 1.0)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## ⚖️ 1. Rechtliche Hinweise & Lizenzinformationen
+## 1. Rechtliche Hinweise & Lizenzinformationen
 
 | Bereich            | Richtlinie                                 | Umsetzung                                         |
 | ------------------ | ------------------------------------------ | ------------------------------------------------- |
@@ -20,11 +20,11 @@
 | **Datenschutz**    | DSGVO-konform                              | Cookie-Banner, Datenschutzerklärung               |
 | **Accessibility**  | WCAG 2.1 Level AA anstreben                | Kontraste, Screenreader-Tauglichkeit              |
 
-**⚠️ Wichtig:** Diese Website ist ein **eigenständiges Design**, das von Premium-Automotive-Design-Prinzipien inspiriert ist, aber keine geschützten Elemente von Mercedes-Benz oder anderen Marken verwendet.
+**Wichtig:** Diese Website ist ein **eigenständiges Design**, das von Premium-Automotive-Design-Prinzipien inspiriert ist, aber keine geschützten Elemente von Mercedes-Benz oder anderen Marken verwendet.
 
 ---
 
-## 🏗️ 2. Layout-Struktur & Grid-System
+## 2. Layout-Struktur & Grid-System
 
 ### 2.1 Basis-Raster
 
@@ -72,7 +72,7 @@ Section-Padding: 80px vertikal zwischen Bereichen
 
 ---
 
-## 🎨 3. Farbpalette (Silver-Car Brand)
+## 3. Farbpalette (Silver-Car Brand)
 
 ### 3.1 Primärfarben
 
@@ -98,7 +98,7 @@ Section-Padding: 80px vertikal zwischen Bereichen
 
 ---
 
-## 🔤 4. Typografie
+## 4. Typografie
 
 ### 4.1 Schriftarten-Empfehlung (Lizenzfrei)
 
@@ -122,7 +122,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 🧱 5. Kacheln / Cards Design-Spezifikation
+## 5. Kacheln / Cards Design-Spezifikation
 
 ### 5.1 Service-Kachel (Hauptservices)
 
@@ -216,7 +216,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 🧭 6. Navigation
+## 6. Navigation
 
 ### 6.1 Header-Navigation
 
@@ -250,7 +250,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 🔘 7. Button-Styles
+## 7. Button-Styles
 
 ### 7.1 Button-Typen
 
@@ -278,7 +278,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 🖼️ 8. Bildbehandlung
+## 8. Bildbehandlung
 
 ### 8.1 Bild-Anforderungen
 
@@ -305,7 +305,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 🎯 9. UI/UX-Prinzipien für Silver-Car
+## 9. UI/UX-Prinzipien für Silver-Car
 
 | Prinzip              | Umsetzung                              | Priorität |
 | -------------------- | -------------------------------------- | --------- |
@@ -319,7 +319,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 📋 10. Implementierungs-Checkliste
+## 10. Implementierungs-Checkliste
 
 ### Phase 1: Grundgerüst (Woche 1-2)
 
@@ -366,7 +366,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 🛠️ 11. Empfohlene Tech-Stack Optionen
+## 11. Empfohlene Tech-Stack Optionen
 
 | Option                    | Für                           | Vorteile                              | Nachteile                    |
 | ------------------------- | ----------------------------- | ------------------------------------- | ---------------------------- |
@@ -379,7 +379,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 📞 12. Kontakt & Support-Integration
+## 12. Kontakt & Support-Integration
 
 ### 12.1 Kontakt-Optionen (sichtbar auf jeder Seite)
 
@@ -399,7 +399,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## ⚠️ 13. Wichtige Warnhinweise
+## 13. Wichtige Warnhinweise
 
 | Thema            | Hinweis                                                          |
 | ---------------- | ---------------------------------------------------------------- |
@@ -413,7 +413,7 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 📊 14. Erfolgsmessung (Post-Launch)
+## 14. Erfolgsmessung (Post-Launch)
 
 | Metrik                    | Ziel                      | Tool                      |
 | ------------------------- | ------------------------- | ------------------------- |
@@ -425,11 +425,12 @@ Small → Zusatzinfos, Footer, Captions
 
 ---
 
-## 📝 15. Dokumenten-Historie
+## 15. Dokumenten-Historie
 
 | Version | Datum      | Autor       | Änderung                                            |
 | ------- | ---------- | ----------- | --------------------------------------------------- |
 | 1.0     | 28.02.2026 | Besem Maazi | Erstellt basierend auf Mercedes-Benz Design-Analyse |
 
 ---
+
 
